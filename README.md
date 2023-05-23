@@ -1,7 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Matheus</h1>
 <h3 align="center">Apaixonado por Tecnologia</h3>
 
-- 🌱 Atualmente estou estudando **Python, R **
+- 🌱 Atualmente estou aprendendo **Python e R**
+
+- 👨‍💻 Cursando Pós em Ciência de Dados ['](')
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
